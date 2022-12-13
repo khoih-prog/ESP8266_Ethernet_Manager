@@ -84,8 +84,8 @@
   * [ConfigOnDoubleReset_TZ](examples/ConfigOnDoubleReset_TZ)         (now support ArduinoJson 6.0.0+ as well as 5.13.5-)
   * [ConfigOnDoubleReset](examples/ConfigOnDoubleReset)               (now support ArduinoJson 6.0.0+ as well as 5.13.5-)
   * [ConfigPortalParamsOnSwitch](examples/ConfigPortalParamsOnSwitch) (now support ArduinoJson 6.0.0+ as well as 5.13.5-)
-  * [ESP8266_FSWebServer](examples/ESP8266_FSWebServer)
-  * [ESP8266_FSWebServer_DRD](examples/ESP8266_FSWebServer_DRD)
+  * [ESP_FSWebServer](examples/ESP_FSWebServer)
+  * [ESP_FSWebServer_DRD](examples/ESP_FSWebServer_DRD)
 * [Example ConfigOnSwitch](#example-ConfigOnSwitch)
 * [Debug Terminal Output Samples](#debug-terminal-output-samples)
   * [1. ConfigOnDoubleReset_TZ using LittleFS on ESP8266_DEV with ESP8266_W5500](#1-ConfigOnDoubleReset_TZ-using-LittleFS-on-ESP8266_DEV-with-ESP8266_W5500)
@@ -1683,8 +1683,8 @@ Connecting `CS/SS` to `TX0/GPIO15` interferes with uploading firmware to ESP8266
  3. [ConfigOnDoubleReset_TZ](examples/ConfigOnDoubleReset_TZ)           (now support ArduinoJson 6.0.0+ as well as 5.13.5-) 
  4. [ConfigOnDoubleReset](examples/ConfigOnDoubleReset)                 (now support ArduinoJson 6.0.0+ as well as 5.13.5-)
  5. [ConfigPortalParamsOnSwitch](examples/ConfigPortalParamsOnSwitch)   (now support ArduinoJson 6.0.0+ as well as 5.13.5-)
- 6. [ESP8266_FSWebServer](examples/ESP8266_FSWebServer)
- 7. [ESP8266_FSWebServer_DRD](examples/ESP8266_FSWebServer_DRD)
+ 6. [ESP_FSWebServer](examples/ESP_FSWebServer)
+ 7. [ESP_FSWebServer_DRD](examples/ESP_FSWebServer_DRD)
 
 ---
 ---
